@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Paula Caroline</h1>
 
 <h3 align="center">
-Software Engineer focused on building AI-powered solutions. Computer Science graduate with a postgraduate degree in Fullstack Development and currently pursuing a specialized postgraduate program in Golang through GoExpert FullCycle. Experienced in Python, Golang, Angular, and modern AI application architectures.
+Software Engineer focused on building AI-powered solutions. Computer Science graduate with a postgraduate degree in Fullstack Development and specialized in Golang through GoExpert FullCycle. Experienced in Python, Golang, Angular, and modern AI application architectures.
 </h3>
 
 <h3 align="left">Connect with me:</h3>
